@@ -4,7 +4,7 @@
 
 ### Airdrop activity rules are as follows :
 
-###### 1、Airdrops  are available daily for each user, click the link and you can participate.
+###### 1、Airdrops  are available weekly for each user, click the link and you can participate.
 
 ###### 2、The  airdrop closes shortly after meet the participator number requirements. If  you're selected,  you can claim the NFT.  At the same time, send the received NFT mint  to your address. If you're not selected, you can claim the NFT Pass.
 
