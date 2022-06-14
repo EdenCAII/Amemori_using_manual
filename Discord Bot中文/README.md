@@ -8,7 +8,7 @@
 
 ##### 如何选择关键字进行作画？
 
-###### 第一步 enter!button
+###### 第一步 输入!button
 
  ![1.png](https://github.com/EdenCAII/test_2/blob/main/1.png?raw=true)
 
